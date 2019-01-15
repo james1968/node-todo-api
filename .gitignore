@@ -1,0 +1,5 @@
+#Node files to ignore
+
+node_modules/*
+package-lock.json
+package.json
